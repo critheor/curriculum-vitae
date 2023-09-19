@@ -1,0 +1,13 @@
+#header{
+    transition: all 0.5s;
+    padding: 20% 0;
+    z-index: 997;
+}
+
+.navbar-desktop {
+    display: none;
+}
+
+.navbar-movile {
+    position: absolute;
+}
