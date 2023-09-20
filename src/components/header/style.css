@@ -1,13 +1,17 @@
 #header{
     transition: all 0.5s;
-    padding: 20% 0;
+    padding: 20px 0;
     z-index: 997;
 }
 
-.navbar-desktop {
-    display: none;
+.text-color {
+    color: #fff;
 }
 
-.navbar-movile {
-    position: absolute;
+.nav-item:hover {
+    background-color: #0307f5;
+}
+
+.navbar-brand:hover {
+    background-color: #fff;
 }
