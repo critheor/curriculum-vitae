@@ -1,0 +1,47 @@
+.hero {
+    height: 100vh;
+    color: #fff;
+}
+
+.bg-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero .overlay-itro {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.hero .hero-content {
+    text-align: center;
+    position: absolute;
+}
+
+.display-table {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.hero .hero-title {
+    color: #fff;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.hero .hero-subtitle {
+    font-size: 2.5rem;
+}
