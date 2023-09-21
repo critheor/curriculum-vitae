@@ -1,3 +1,7 @@
 .resume-s-pt {
     padding-top: 3rem;
 }
+
+.resume-s-pt .fs-title {
+    font-size: 1.8rem;
+}
