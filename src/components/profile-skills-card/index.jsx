@@ -39,44 +39,49 @@ export default function ProfileSkillCard() {
             <span>HTML5 </span>
             <span>75%</span>
           </Card.Text>
-          <Progress value={"75"} />
+          <Progress value={"75%"} />
           <Card.Text className="mb-0 mt-3">
             <span>CSS3 </span>
             <span>65%</span>
           </Card.Text>
-          <Progress value={"65"} />
+          <Progress value={"65%"} />
           <Card.Text className="mb-0 mt-3">
             <span>BOOTSTRAP </span>
             <span>60%</span>
           </Card.Text>
-          <Progress value={"60"} />
+          <Progress value={"60%"} />
           <Card.Text className="mb-0 mt-3">
             <span>JAVASCRIPT </span>
             <span>70%</span>
           </Card.Text>
-          <Progress value={"70"} />
+          <Progress value={"70%"} />
           <Card.Text className="mb-0 mt-3">
             <span>REACT JS </span>
             <span>75%</span>
           </Card.Text>
-          <Progress value={"75"} />
+          <Progress value={"75%"} />
 
           <Card.Text className="mb-0 mt-3">
             <span>NODE JS </span>
             <span>65%</span>
           </Card.Text>
-          <Progress value={"65"} />
+          <Progress value={"65%"} />
 
           <Card.Text className="mb-0 mt-3">
             <span>EXPRESS </span>
             <span>65%</span>
           </Card.Text>
-          <Progress value={"65"} />
+          <Progress value={"65%"} />
           <Card.Text className="mb-0 mt-3">
             <span>POSTGRESQL </span>
             <span>50%</span>
           </Card.Text>
-          <Progress value={"50"} />
+          <Progress value={"50%"} />
+          <Card.Text className="mb-0 mt-3">
+            <span>JAVA </span>
+            <span>50%</span>
+          </Card.Text>
+          <Progress value={"70%"} />
           <div className="more-skill-link mt-3">
             <Card.Link href="#more-skills">More skills</Card.Link>
           </div>
