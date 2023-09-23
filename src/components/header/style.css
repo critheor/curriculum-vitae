@@ -4,14 +4,21 @@
     z-index: 997;
 }
 
+#header.header-scrolled {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 8px 0;
+}
+
+#header.ex-h {
+    bottom: 0;
+    background-color: rgba(101, 201, 174, .9);
+    padding: 3rem;
+    height: 100vh;
+}
+
 .text-color {
     color: #fff;
 }
 
-.nav-item:hover {
-    background-color: #0307f5;
-}
 
-.navbar-brand:hover {
-    background-color: #fff;
-}
+

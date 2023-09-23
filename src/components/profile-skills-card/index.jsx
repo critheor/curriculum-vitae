@@ -21,7 +21,7 @@ export default function ProfileSkillCard() {
           </Card.Text>
           <Card.Text>
             <span className="title-s">Perfil: </span>
-            <span>Web Developer</span>
+            <span>Desarrollador Web</span>
           </Card.Text>
           <Card.Text>
             <span className="title-s">Correo: </span>

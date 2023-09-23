@@ -6,7 +6,7 @@ import "./style.css";
 
 export default function Resume() {
   return (
-    <div className="resume">
+    <div id='resume' className="resume">
       <Container>
         <h3 className="title-r fw-bold">Resume</h3>
         {dataResume.map((item, index) => (

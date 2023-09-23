@@ -1,10 +1,10 @@
 const skills = [
     {
-        skill: 'HTML 5',
+        skill: 'HTML5',
         progress: '75%'
     },
     {
-        skill: 'CSS 3',
+        skill: 'CSS3',
         progress: '65%'
     },
     {
@@ -16,7 +16,7 @@ const skills = [
         progress: '70%'
     },
     {
-        skill: 'REACT JS',
+        skill: 'REACT.JS',
         progress: '75%'
     },
     {

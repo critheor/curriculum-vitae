@@ -4,7 +4,7 @@ import "./style.css";
 
 export default function Footer() {
   return (
-    <footer className="mb-4 pt-3 bt">
+    <footer id='contact' className="mb-4 pt-3 bt">
       <Container>
         <Row>
           <Col sm={3} className="mb-3">

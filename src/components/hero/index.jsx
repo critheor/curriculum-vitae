@@ -14,9 +14,9 @@ export default function Hero() {
       <div className="hero-content display-table">
         <div className="table-cell">
           <Container>
-            <h1 className="hero-title mb-4">I am Mateo Herrera</h1>
+            <h1 className="hero-title mb-4">yo soy MATEO HERRERA</h1>
             <p className="hero-subtitle">
-              Web Developer
+              Desarrollador Web
             </p>
           </Container>
         </div>
