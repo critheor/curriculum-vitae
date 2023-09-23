@@ -9,8 +9,8 @@ export default function Resume() {
     <div className="resume">
       <Container>
         <h3 className="title-r fw-bold">Resume</h3>
-        {dataResume.map((item) => (
-          <ResumeSection title={item.title} data={item.dataResume} />
+        {dataResume.map((item, index) => (
+          <ResumeSection key={index} title={item.title} data={item.dataResume} />
         ))}
       </Container>
     </div>
