@@ -11,14 +11,13 @@
 
 #header.ex-h {
     bottom: 0;
-    background-color: rgba(101, 201, 174, .9);
-    padding: 3rem;
+    background-color: rgba(101, 201, 174, 1);
+    padding: 2rem;
     height: 100vh;
 }
+
 
 .text-color {
     color: #fff;
 }
-
-
 

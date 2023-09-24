@@ -5,3 +5,9 @@
 .info {
     display: block;
 }
+
+.contact-title-r {
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}

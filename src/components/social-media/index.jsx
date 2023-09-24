@@ -6,7 +6,7 @@ import InstagramLogo from "../../assets/icons/instagram.svg";
 
 export default function SocialMedia() {
   return (
-    <Row>
+    <Row className="justify-content-between">
       <Col className="col-2">
         <a href="https://github.com/critheor" target="_blank" rel="noreferrer">
           <img src={GitHubLogo} alt="GitHub Logo" />
